@@ -1,0 +1,18 @@
+body {
+    padding: 12px;
+    display: flex;
+}
+
+#result {
+    background-color: #101010;
+    padding: 12px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#result div {
+    margin: 8px;
+    max-width: 512px;
+    max-height: 512px;
+    overflow: hidden;
+}
